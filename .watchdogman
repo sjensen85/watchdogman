@@ -1,0 +1,14 @@
+{
+    "directory": "./",
+    "allow_patterns": ["*.py", ".watchdogman"],
+    "ignore_patterns": [
+        "*.whl",
+        "*.tar.gz",
+        "*.egg-info",
+        "watchdogman-*",
+        "build",
+        "dist"
+    ],
+    "ignore_directories": true,
+    "command": "pip install ./"
+}

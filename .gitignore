@@ -1,6 +1,6 @@
 dist/
 build/
 
-.pytest*/
+src/watchdogman.egg-info*/
 
-.watchdogman
+.pytest*/
